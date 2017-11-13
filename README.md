@@ -1,1 +1,1 @@
-"# mean-kit" 
+"# mean-starter-kit" 
